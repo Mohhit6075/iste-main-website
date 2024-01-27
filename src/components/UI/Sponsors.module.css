@@ -1,0 +1,12 @@
+.bg{
+            background-image: url("../../assets//Backgrounds/bg13.jpg");
+            
+                /* Set a specific height */
+                min-height: 400px;
+                /* Create the parallax scrolling effect */
+                background-attachment: fixed;
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: cover;
+                margin: 0;
+}

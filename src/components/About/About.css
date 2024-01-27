@@ -1,0 +1,23 @@
+.bg___ {
+	border: 0.8px solid grey;
+	/* padding: 47px; */
+	margin: 11px;
+	border-radius: 30px;
+	/* background: rgb(2,0,36); */
+	/* background: linear-gradient(82deg, rgba(2,0,36,1) 0%, rgba(2,122,215,0.4543067226890757) 97%, rgba(0,212,255,1) 100%); */
+	margin-top: 150px;
+	background: rgb(2, 0, 36);
+	background: linear-gradient(
+		82deg,
+		rgb(50, 50, 50) 40%,
+		rgba(29, 32, 38, 0.45) 100%,
+		rgba(0, 212, 255, 1) 100%
+	);
+	/* backdrop-filter: blur(4px); */
+}
+
+@media (max-width: 800px) {
+	.bg___ {
+		margin-top: 0px;
+	}
+}

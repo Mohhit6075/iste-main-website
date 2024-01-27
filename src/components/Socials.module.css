@@ -1,0 +1,39 @@
+.line{
+    background-color: aliceblue;
+    width:1px;
+    height: 70px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top:50%;
+    left: 95%;
+    z-index: 15;
+}
+
+.container a{
+    margin-block: 10px;
+}
+
+@media(max-width: 600px){
+    .line{
+        height: 1px;
+        width: 70px;
+    }
+    .container{
+        flex-direction: row;
+        justify-content: space space-evenly;
+        align-items: center;
+        position:sticky;
+        top:90%;
+        left:0;
+    }
+
+    a{
+        margin-inline: 5px;
+    }
+}

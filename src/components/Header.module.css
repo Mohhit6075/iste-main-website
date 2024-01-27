@@ -1,0 +1,49 @@
+.headDiv {
+	width: 100%;
+	height: 100vh;
+	color: rgb(59, 37, 37);
+	color: rgb(255, 177, 32);
+
+	/* background-color:rgb(57, 99, 183); */
+
+	/* display: flex; */
+	/* flex-direction: column; */
+
+	background-image: url('../assets/Backgrounds/bg13.jpg');
+
+	/* Set a specific height */
+	min-height: 400px;
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	text-align: center;
+
+	margin: auto;
+	justify-content: center;
+	align-items: center;
+
+	animation: appearHead 1s;
+}
+
+.appearAnim {
+	animation: appearHead 1s;
+}
+
+h1,
+h3 {
+	margin: 0;
+	padding: 0;
+}
+
+@keyframes appearHead {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
