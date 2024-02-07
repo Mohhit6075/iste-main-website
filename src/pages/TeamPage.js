@@ -3,7 +3,7 @@ import React from 'react';
 import Navbar from '../components/UI/Navbar';
 import MainContainer from '../../src/components/TeamComponents/MainContainer';
 import { Paper } from '@mui/material';
-import data from '../assets/TeamData';
+import data from '../assets/TeamData2023';
 
 import Footer from '../components/UI/Footer';
 
@@ -20,7 +20,7 @@ function parseImage(text) {
 
 const priority = {
 	President: 50,
-	"Student's Chairperson": 49,
+	"Students' Chairperson": 49,
 	'Vice-Chairperson': 48,
 	Convener: 47,
 	'Co-convener': 46,
