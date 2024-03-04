@@ -10,7 +10,7 @@ const data = [
         "instagramProfile": "instagram.com/aanalpatil24",
         "twitterProfile": "https://twitter.com/aanalpatil24?t=O3oe5cBR2OKDYtT8XrfA1g&s=08",
         "githubProfile": "",
-        "photo": ""
+        "photo": "https://drive.google.com/open?id=1tTN06bslU1HXcIzYEeU2L0VNKvXrkmMv"
     },
     {
         "timestamp": "6/16/2023 18:57:35",
@@ -36,7 +36,7 @@ const data = [
         "instagramProfile": "https://instagram.com/abhinav.rai.22?igshid=ZDc4ODBmNjlmNQ==",
         "twitterProfile": "https://twitter.com/Abhinavrai22?t=4oqyiqjQV8DSMVe54lPPKQ&s=08",
         "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1cf0kSxlfOfvDQENsxvZcylW0r8aMCLXL"
+        "photo": "https://drive.google.com/open?id=1BTWjXZ_p4gvKs2AePIRjXFxMlCbgVOd0"
     },
     {
         "timestamp": "6/16/2023 15:58:49",
@@ -63,19 +63,6 @@ const data = [
         "twitterProfile": "",
         "githubProfile": "",
         "photo": "https://drive.google.com/open?id=1DCmEWeWOjZV5mdqNOlEI5TcooF8oiHV9"
-    },
-    {
-        "timestamp": "6/16/2023 20:40:51",
-        "emailAddress": "singhyadav.vinodkumar@gmail.com",
-        "name": "Aditya Krishna ",
-        "year": "2",
-        "vertical": "Executive",
-        "post": "",
-        "linkedinProfile": "",
-        "instagramProfile": "https://instagram.com/adityakrishna469?igshid=MzNlNGNkZWQ4Mg==",
-        "twitterProfile": "",
-        "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1yN7IuQ2pZMJEJwlgPpk9Q-g3B2PdEeQW"
     },
     {
         "timestamp": "6/16/2023 20:50:35",
@@ -117,32 +104,6 @@ const data = [
         "photo": "https://drive.google.com/open?id=1Z9P4NwCw0EflGV4nTAt4m0FITEoX92Xe"
     },
     {
-        "timestamp": "6/16/2023 16:06:17",
-        "emailAddress": "ananya2k3sharma@gmail.com",
-        "name": "Ananya Sharma",
-        "year": "2",
-        "vertical": "Executive",
-        "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/ananya-sharma-937177262",
-        "instagramProfile": "",
-        "twitterProfile": "",
-        "githubProfile": "",
-        "photo": ""
-    },
-    {
-        "timestamp": "6/16/2023 20:02:14",
-        "emailAddress": "eng.anjali2022@gmail.com",
-        "name": "Anjali Sharma ",
-        "year": "2",
-        "vertical": "Executive",
-        "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/anjali-sharma-67627625b",
-        "instagramProfile": "anshu_56311",
-        "twitterProfile": "",
-        "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1QUn2KS-mIgAHUWEwJtG17--BXn0nv5ZG"
-    },
-    {
         "timestamp": "6/16/2023 21:35:31",
         "emailAddress": "ankitchoudharyqwert@gmail.com",
         "name": "Ankit Choudhary ",
@@ -167,58 +128,6 @@ const data = [
         "twitterProfile": "https://twitter.com/anujk2304",
         "githubProfile": "https://github.com/anuj-23",
         "photo": "https://drive.google.com/open?id=1WJm44Occ4Ct5RoRBVIIk__oxhIzdjGy1"
-    },
-    {
-        "timestamp": "6/16/2023 18:01:41",
-        "emailAddress": "arambhchaturvedi12@gmail.com",
-        "name": "Arambh chaturvedi",
-        "year": "2",
-        "vertical": "Executive",
-        "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/arambh-chaturvedi-75b56827a",
-        "instagramProfile": "https://instagram.com/thisisarambh?igshid=MzNlNGNkZWQ4Mg==",
-        "twitterProfile": "",
-        "githubProfile": "",
-        "photo": ""
-    },
-    {
-        "timestamp": "6/16/2023 1:35:00",
-        "emailAddress": "aviraltripathi2005@gmail.com",
-        "name": "Aviral Tripathi ",
-        "year": "2",
-        "vertical": "Web Developer",
-        "post": "",
-        "linkedinProfile": "www.linkedin.com/in/aviral-tripathi",
-        "instagramProfile": "",
-        "twitterProfile": "",
-        "githubProfile": "https://github.com/Aviralotrip",
-        "photo": "https://drive.google.com/open?id=1HnNifbMHCsjRSA2uF79Jcpv56KLiCKdM"
-    },
-    {
-        "timestamp": "6/16/2023 16:54:21",
-        "emailAddress": "agrawalayush791@gmail.com",
-        "name": "Ayush Agrawal ",
-        "year": "2",
-        "vertical": "Executive",
-        "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/ayush-agrawal-57779a27b",
-        "instagramProfile": "https://instagram.com/_ayush_2807?igshid=ZDc4ODBmNjlmNQ==",
-        "twitterProfile": "",
-        "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1DZZIPvFUQn_djVXeTXIqWtzA4cWor8Ct"
-    },
-    {
-        "timestamp": "6/16/2023 23:25:08",
-        "emailAddress": "bhupendra230404@gmail.com",
-        "name": "Bhupendra Singh Tomar ",
-        "year": "2",
-        "vertical": "Executive",
-        "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/bst-t-514281211",
-        "instagramProfile": "https://instagram.com/offx.bst?igshid=NGExMmI2YTkyZg==",
-        "twitterProfile": "",
-        "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1jmYFFg9zQfzTkz-Cj-ZVUQxRzrGCtPKz"
     },
     {
         "timestamp": "6/16/2023 17:24:58",
@@ -247,19 +156,6 @@ const data = [
         "photo": "https://drive.google.com/open?id=1nbFsQF6pBIMlScFD1Enlg-qdcsmypFY4"
     },
     {
-        "timestamp": "6/16/2023 13:58:56",
-        "emailAddress": "eshwariwadaskar30@gmail.com",
-        "name": "Eshwari wadaskar ",
-        "year": "2",
-        "vertical": "Photographer",
-        "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/eshwari-wadaskar-446611242",
-        "instagramProfile": "https://instagram.com/eshwariwadaskar_30?igshid=ZDc4ODBmNjlmNQ==",
-        "twitterProfile": "",
-        "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1opCH3JpfeJFhlOMdvd2DqlJKcRrvosay"
-    },
-    {
         "timestamp": "6/16/2023 17:00:05",
         "emailAddress": "gaurav901705@gmail.com",
         "name": "Gaurav Gupta",
@@ -283,7 +179,7 @@ const data = [
         "instagramProfile": "https://instagram.com/agrawal_hardik_534?igshid=MzNlNGNkZWQ4Mg==",
         "twitterProfile": "",
         "githubProfile": "",
-        "photo": ""
+        "photo": "https://drive.google.com/open?id=1RPjVmewSD2Af_taOlCD1WurlPIyzagea"
     },
     {
         "timestamp": "6/16/2023 0:35:59",
@@ -335,7 +231,7 @@ const data = [
         "instagramProfile": "https://instagram.com/_kalpitnagar?igshid=ZDc4ODBmNjlmNQ==",
         "twitterProfile": "https://twitter.com/nagar_kalpit?t=z6KWC7eng_SKBH5b-we1Aw&s=09",
         "githubProfile": "https://github.com/kalpitgnagar",
-        "photo": "https://drive.google.com/open?id=1HnGIIyoSwV4e1tixWyF5Q6bUssfUHHBC"
+        "photo": "https://drive.google.com/open?id=13fDxj3HMe_PGcvKYXlEOtAhIvJj_DRGM"
     },
     {
         "timestamp": "6/16/2023 10:24:38",
@@ -348,7 +244,7 @@ const data = [
         "instagramProfile": "https://instagram.com/karankute05?igshid=NGExMmI2YTkyZg==",
         "twitterProfile": "https://twitter.com/karan_kute05?t=QhvKnDWqzpYD5jgPUhK87g&s=09",
         "githubProfile": "https://github.com/kk1701",
-        "photo": 'https://drive.google.com/open?id=1DpO029Ty4v3e6CQVBz_s4hFBZAYgxitc'
+        "photo": 'https://drive.google.com/open?id=1sLl5kApa3qxjY8sjK-ebhGmbLg7Q_Zr0'
     },
     {
         "timestamp": "6/15/2023 23:32:18",
@@ -439,7 +335,7 @@ const data = [
         "instagramProfile": "https://instagram.com/_.pallavi_1122?igshid=NGExMml2YTkyZg==",
         "twitterProfile": "https://twitter.com/Pallavi_2022?s=09",
         "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1s-rPK7ghzQHQLJoK4KwuPMaYN40KC_In"
+        "photo": "https://drive.google.com/open?id=1JEgN-Db21ljeCc1m4Cg4_zvgiFiFSBM3"
     },
     {
         "timestamp": "6/16/2023 16:52:32",
@@ -453,19 +349,6 @@ const data = [
         "twitterProfile": "https://twitter.com/Pvsm5597?t=A58pIr-IeJDXhVdASUSWxw&s=08",
         "githubProfile": "https://github.com/Pvsm-chandra-reddy/Pvsm-chandra-reddy",
         "photo": "https://drive.google.com/open?id=1oIYsK37Ymn-gZvzXQZrSYPA63gns4iki"
-    },
-    {
-        "timestamp": "6/16/2023 16:06:08",
-        "emailAddress": "rkbirla1048@gmail.com",
-        "name": "Ramkrishna Birla ",
-        "year": "2",
-        "vertical": "Executive",
-        "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/ramkrishna-birla-98b826259",
-        "instagramProfile": "https://www.instagram.com/invites/contact/?i=az2cldrmfje3&utm_content=pnl1ipo",
-        "twitterProfile": "https://twitter.com/RKMBirla1048?t=GH3nzRf7iU5KhFGGg44KvA&s=08",
-        "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1JZU3OfqIqcOTO0ExT3-0t4n136EaaeLR"
     },
     {
         "timestamp": "6/16/2023 0:08:47",
@@ -491,7 +374,7 @@ const data = [
         "instagramProfile": "https://instagram.com/paliwal_samanvaya?igshid=NGExMmI2YTkyZg==",
         "twitterProfile": "https://twitter.com/Samanvaya2704?t=nJpc8rSFSlrzLCouOW1p_g&s=08",
         "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1E_NI51Ig8UvaW5aNTMAolzKynd2GFefY"
+        "photo": "https://drive.google.com/open?id=1xvMXrwmb8YIcDSS91eNjrQZ5VohuHycG"
     },
     {
         "timestamp": "6/15/2023 23:39:55",
@@ -530,7 +413,7 @@ const data = [
         "instagramProfile": "",
         "twitterProfile": "",
         "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1Xt8JNpavGWhrpaYkeIN1P6fN6k0nAx3L"
+        "photo": "https://drive.google.com/open?id=1G1CANDmN6HHGZbRbpWANcrbaBJDTB-Z-"
     },
     {
         "timestamp": "6/15/2023 23:08:44",
@@ -559,26 +442,12 @@ const data = [
         "photo": "https://drive.google.com/open?id=1nbYuGxUdvnvA0345A-n66ijWwIx333o8"
     },
     {
-        "timestamp": "6/16/2023 16:34:19",
-        "emailAddress": "gdhdsjkskako@gmail.com",
-        "name": "Shubham solanki",
-        "year": "2",
-        "vertical": "Executive",
-        "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/shubham-solanki-548504259",
-        "instagramProfile": "https://www.instagram.com/yeah__shubham/",
-        "twitterProfile": "",
-        "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1xxA7jBukop_4R0sODpvrQ5JTRZ1pCgeq"
-    },
-    {
         "timestamp": "6/16/2023 19:55:25",
         "emailAddress": "manojsaxena26372@gmail.com",
         "name": "Shubhi saxena ",
         "year": "2",
         "vertical": "Executive",
         "post": "",
-        "linkedinProfile": "https://www.linkedin.com/in/shubhi-saxena-b8004927a",
         "instagramProfile": "https://instagram.com/itz_shubhi102?igshid=MzNlNGNkZWQ4Mg==",
         "twitterProfile": "",
         "githubProfile": "",
@@ -673,7 +542,7 @@ const data = [
         "instagramProfile": "https://instagram.com/vanshikasingh1208?igshid=MzNlNGNkZWQ4Mg==",
         "twitterProfile": "nil",
         "githubProfile": "nil",
-        "photo": ""
+        "photo": "https://drive.google.com/open?id=1eqsI4jI2Ew12aLjHAZhV9g70_NarlQ_S	"
     },
     {
         "timestamp": "6/16/2023 17:20:56",
@@ -699,7 +568,7 @@ const data = [
         "instagramProfile": "https://instagram.com/vibhasapretwar?igshid=MzNlNGNkZWQ4Mg==",
         "twitterProfile": "",
         "githubProfile": "",
-        "photo": "https://drive.google.com/open?id=1qrCLz0fukjHhTJNd8wqZRkqoRUjRIqNJ"
+        "photo": "https://drive.google.com/open?id=1gT159H1KgDfZUB1BaK-deNep0seZIRL8"
     },
     {
 		timestamp: '2022-11-14T08:34:22.229Z',

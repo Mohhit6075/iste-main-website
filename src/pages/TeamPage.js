@@ -15,7 +15,7 @@ function parseImage(text) {
 	for (let j = i + 3; j < text.length; j++) {
 		id = id + text[j];
 	}
-	return `https://drive.google.com/uc?export=view&id=${id}`;
+	return `https://drive.google.com/thumbnail?id=${id}`;
 }
 
 const priority = {
