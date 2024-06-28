@@ -55,7 +55,7 @@ const Footer = (props) => {
 									sx={{ color: 'white', textDecoration: 'none' }}
 									variant="body2"
 								>
-									Animesh Nayak +91 8504036415
+									Akshat Maheshwari +91 7440411306
 								</Typography>
 							</a>
 						</p>
@@ -71,7 +71,7 @@ const Footer = (props) => {
 									sx={{ color: 'white', textDecoration: 'none' }}
 									variant="body2"
 								>
-									Navyasree Konagalla +91 9490165056
+									Suhaani Batra +91 6263302087
 								</Typography>
 							</a>
 						</p>

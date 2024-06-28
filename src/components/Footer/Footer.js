@@ -98,8 +98,8 @@ const Footer = () => {
 								}}
 							>
 								<Typography>
-									Animesh Nayak{' '}
-									<Typography textAlign={'center'}>+91 8504036415</Typography>
+									Akshat Maheshwari{' '}
+									<Typography textAlign={'center'}>+91 7440411306</Typography>
 								</Typography>
 							</a>
 							<a
@@ -111,8 +111,8 @@ const Footer = () => {
 								}}
 							>
 								<Typography>
-									Navyasree Konagalla
-									<Typography textAlign={'center'}>+91 9490165056</Typography>
+									Suhaani Batra{' '}
+									<Typography textAlign={'center'}>+91 6263302087</Typography>
 								</Typography>
 							</a>
 						</div>
