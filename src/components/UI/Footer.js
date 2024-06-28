@@ -45,7 +45,7 @@ const Footer = (props) => {
 						</h3>
 						<p>
 							<a
-								href="tel://9140160345"
+								href="tel://7440411306"
 								target="_blank"
 								classNameName="text"
 								style={{ textDecoration: 'none' }}
@@ -61,7 +61,7 @@ const Footer = (props) => {
 						</p>
 						<p>
 							<a
-								href="tel://9140160345"
+								href="tel://6263302087"
 								target="_blank"
 								classNameName="text"
 								style={{ textDecoration: 'none' }}
