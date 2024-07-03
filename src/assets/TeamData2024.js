@@ -1123,6 +1123,18 @@ const data = [
       "photo": "https://drive.google.com/open?id=1QI5tAOtTUVTjmWzHnOSI-xTBAA7daT-0"
    },
    {
+      "timestamp": "6/16/2023 16:34:10",
+      "emailAddress": "rahulprajapat2@gmail.com",
+      "name": "Rahul Prajapat",
+      "year": "3rd",
+      "vertical": "Team Member",
+      "linkedinProfile": "https://www.linkedin.com/in/rprajapat323",
+      "instagramProfile": "https://www.instagram.com/_rahul_prajapat2?igsh=aHJ2bnBwbjUxbzlk",
+      "twitterProfile": "",
+      "githubProfile": "",
+      "photo": "https://drive.google.com/open?id=1R76ErGLfAWknY98jYWorJ6Zw518wd9W1"
+   },
+   {
       "timestamp": "6/16/2023 19:55:25",
       "emailAddress": "manojsaxena26372@gmail.com",
       "name": "Shubhi saxena ",
