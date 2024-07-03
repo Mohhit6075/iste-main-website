@@ -560,7 +560,7 @@ const data = [
    },
    {
       "Timestamp": "6/19/2024 23:00:11",
-      "name": "VAIBHAV KUMAR SINHA ",
+      "name": "Vaibhav Kumar Sinha ",
       "year": "2nd",
       "vertical": "Executive",
       "linkedinProfile": "https://www.linkedin.com/in/vaibhav-kumar-sinha-070795311",
