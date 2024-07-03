@@ -504,7 +504,7 @@ const data = [
       "githubProfile": "",
       "xProfile": "",
       "emailAddress": "basuyadav1411@gmail.com",
-      "photo": "https://drive.google.com/file/d/1fAIdmwL1iOcW7jBuO2TZjFIrnjXv2KHT/view?usp=drivesdk"
+      "photo": "https://drive.google.com/open?id=1fAIdmwL1iOcW7jBuO2TZjFIrnjXv2KHT"
    },
    {
       "Timestamp": "6/19/2024 17:56:49",
@@ -1120,7 +1120,7 @@ const data = [
       "instagramProfile": "https://www.instagram.com/shreyansh124345/",
       "twitterProfile": "https://twitter.com/ShreyanshS50756?t=E6j9_1pA2IHQC17fnebB6g&s=08",
       "githubProfile": "https://github.com/pikachusensei",
-      "photo": "https://drive.google.com/file/d/1fvRuQzOah2PmKMsHZuMU0JiqpEnkrRee/view?usp=drivesdk"
+      "photo": "https://drive.google.com/open?id=1QI5tAOtTUVTjmWzHnOSI-xTBAA7daT-0"
    },
    {
       "timestamp": "6/16/2023 19:55:25",
@@ -1203,7 +1203,7 @@ const data = [
       "instagramProfile": "https://instagram.com/_agarwal_vanshika?igshid=MzNlNGNkZWQ4Mg==",
       "twitterProfile": "https://twitter.com/VanshikaAg2509",
       "githubProfile": "",
-      "photo": "https://drive.google.com/file/d/1eiLiORQ58FroYjO2UWuU5tHenZHN84f9/view?usp=drivesdk"
+      "photo": "https://drive.google.com/open?id=1eiLiORQ58FroYjO2UWuU5tHenZHN84f9"
    },
    {
       "timestamp": "6/17/2023 20:32:36",
