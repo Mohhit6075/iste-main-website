@@ -3,7 +3,7 @@ import React from 'react';
 import Navbar from '../components/UI/Navbar';
 import MainContainer from '../../src/components/TeamComponents/MainContainer';
 import { Paper } from '@mui/material';
-import data from '../assets/TeamData2023';
+import data from '../assets/TeamData2024';
 
 import Footer from '../components/UI/Footer';
 
