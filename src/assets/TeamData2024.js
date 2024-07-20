@@ -748,7 +748,7 @@ const data = [
       "instagramProfile": "https://instagram.com/abhinav.rai.22?igshid=ZDc4ODBmNjlmNQ==",
       "twitterProfile": "https://twitter.com/Abhinavrai22?t=4oqyiqjQV8DSMVe54lPPKQ&s=08",
       "githubProfile": "",
-      "photo": "https://drive.google.com/open?id=1BTWjXZ_p4gvKs2AePIRjXFxMlCbgVOd0"
+      "photo": "https://drive.google.com/open?id=1wwOgH_J_rBR6539K-zz6cXPZIdd5Kvah"
    },
    {
       "timestamp": "6/16/2023 15:58:49",
