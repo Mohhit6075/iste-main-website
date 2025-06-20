@@ -405,7 +405,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "",
-    "photo": "https://drive.google.com/file/d/1M2OjLcOA9frjICKOdaIKnpSMzJiI_7Ui/view?usp=drivesdk"
+    "photo": "https://drive.google.com/uc?export=view&id=1M2OjLcOA9frjICKOdaIKnpSMzJiI_7Ui"
   },
   {
     "Timestamp": "19/06/2025 16:46:01",
@@ -441,7 +441,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "",
-    "photo": "https://drive.google.com/file/d/1M0wLrhDPALVc4W3aF1yhrG_jirJyZeuN/view?usp=drivesdk"
+    "photo": "https://drive.google.com/uc?export=view&id=1M0wLrhDPALVc4W3aF1yhrG_jirJyZeuN"
   },
   {
     "Timestamp": "19/06/2025 18:34:28",
@@ -549,7 +549,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "",
-    "photo": "https://drive.google.com/file/d/1M-eAvu9JksHmezWMtkGg6y91TMEPRXTP/view?usp=drivesdk"
+    "photo": "https://drive.google.com/uc?export=view&id=1M-eAvu9JksHmezWMtkGg6y91TMEPRXTP"
   },
   {
     "Timestamp": "19/06/2025 19:56:53",
@@ -585,7 +585,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "https://github.com/Anurag-Singh2011-hub",
-    "photo": "https://drive.google.com/file/d/1Cznpi7IczDx8AkbWnfQ7QGT2x7zyQffn/view?usp=drivesdk"
+    "photo": "https://drive.google.com/uc?export=view&id=1Cznpi7IczDx8AkbWnfQ7QGT2x7zyQffn"
   },
   {
     "Timestamp": "19/06/2025 20:22:33",
