@@ -196,7 +196,7 @@ const data = [
     "name": "Ayush Pratap Singh",
     "year": "2nd",
     "vertical": "Web Developer",
-    "linkedinProfile": "www.linkedin.com/in/ayush-pratap-singh-09387b283",
+    "linkedinProfile": "https://www.linkedin.com/in/ayush-pratap-singh-09387b283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/aayush_siingh/",
     "facebookProfile": "",
     "xProfile": "",
