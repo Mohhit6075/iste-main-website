@@ -69,7 +69,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "https://github.com/Wizardcode28",
-    "photo": "https://drive.google.com/uc?export=view&id=1M9F0vXKAgrOVvBCKUSbn3b32ZG0bg3BW"
+    "photo": "https://drive.google.com/open?id=1M9F0vXKAgrOVvBCKUSbn3b32ZG0bg3BW"
   },
   {
     "Timestamp": "19/06/2025 00:11:42",
@@ -585,7 +585,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "https://github.com/Anurag-Singh2011-hub",
-    "photo": "https://drive.google.com/uc?export=view&id=1LcR4cLK0Jqi__zriUI5qeleBedzizCsI"
+    "photo": "https://drive.google.com/file/d/1Cznpi7IczDx8AkbWnfQ7QGT2x7zyQffn/view?usp=drivesdk"
   },
   {
     "Timestamp": "19/06/2025 20:22:33",
