@@ -735,19 +735,19 @@ const data = [
       "emailAddress": "kumawatakshansh@gmail.com",
       "photo": "https://drive.google.com/open?id=17asgx2z3jm7BwSoGNK4mqez_spI1m4FW"
    },
-   {
-      "Timestamp": "6/18/2024 23:38:22",
-      "name": "Jayvardhan Bhardwaj ",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/jayvardhan-bhardwaj-225040196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "instagramProfile": "https://www.instagram.com/jaybharadwaj_27?igsh=MTEwM3J4OXpmeHlmcQ==",
-      "facebookProfile": "",
-      "githubProfile": "https://github.com/ALPHAtech27",
-      "xProfile": "https://x.com/Jaybharadwaj_27?t=x0VL5-yFFG8-TkUn-whv4Q&s=09",
-      "emailAddress": "jaybharadwaj2244@gmail.com",
-      "photo": "https://drive.google.com/open?id=10DVrlcMbzOR2N560vyBpOClit9Mp4c8C"
-   },
+   // {
+   //    "Timestamp": "6/18/2024 23:38:22",
+   //    "name": "Jayvardhan Bhardwaj ",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/jayvardhan-bhardwaj-225040196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+   //    "instagramProfile": "https://www.instagram.com/jaybharadwaj_27?igsh=MTEwM3J4OXpmeHlmcQ==",
+   //    "facebookProfile": "",
+   //    "githubProfile": "https://github.com/ALPHAtech27",
+   //    "xProfile": "https://x.com/Jaybharadwaj_27?t=x0VL5-yFFG8-TkUn-whv4Q&s=09",
+   //    "emailAddress": "jaybharadwaj2244@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=10DVrlcMbzOR2N560vyBpOClit9Mp4c8C"
+   // },
    {
       "Timestamp": "6/18/2024 23:43:01",
       "name": "Shaalin Chandra",
@@ -774,19 +774,19 @@ const data = [
       "emailAddress": "tanugupta1004@gmail.com",
       "photo": "https://drive.google.com/open?id=1G-98ZXu0mW0hl3o3Qo27a1Nwr-jyp-Ws"
    },
-   {
-      "Timestamp": "6/18/2024 23:55:32",
-      "name": "Chatrapal Singh ",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/chatrapal-singh-189318210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "instagramProfile": "https://www.instagram.com/chatrapal__/",
-      "facebookProfile": "",
-      "githubProfile": "",
-      "xProfile": "https://x.com/ChatrapalLodhi3",
-      "emailAddress": "chatrapallodhi01@gmail.com",
-      "photo": "https://drive.google.com/open?id=1jtjiocG8D8OceYeOqZJCbvDv74VYe37p"
-   },
+   // {
+   //    "Timestamp": "6/18/2024 23:55:32",
+   //    "name": "Chatrapal Singh ",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/chatrapal-singh-189318210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+   //    "instagramProfile": "https://www.instagram.com/chatrapal__/",
+   //    "facebookProfile": "",
+   //    "githubProfile": "",
+   //    "xProfile": "https://x.com/ChatrapalLodhi3",
+   //    "emailAddress": "chatrapallodhi01@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=1jtjiocG8D8OceYeOqZJCbvDv74VYe37p"
+   // },
    {
       "Timestamp": "6/19/2024 0:26:10",
       "name": "Aastha Pant",
@@ -852,19 +852,19 @@ const data = [
       "emailAddress": "jay7322849@gmail.com",
       "photo": "https://drive.google.com/open?id=1ZGRS7bPuPzNrX8muQrnl0UzFoJ_Grf12"
    },
-   {
-      "Timestamp": "6/19/2024 1:10:21",
-      "name": "Kunal Chouhan ",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/kunal-chouhan-72447a220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
-      "instagramProfile": "https://www.instagram.com/kunal_chouhan_99?igsh=aTM0b250cXVnMjl1&utm_source=qr",
-      "facebookProfile": "",
-      "githubProfile": "",
-      "xProfile": "",
-      "emailAddress": "kunalchouhan2004@gmail.com",
-      "photo": "https://drive.google.com/open?id=1wzOUkUAfslh8jwBenLv9bzbc6znqpmL7"
-   },
+   // {
+   //    "Timestamp": "6/19/2024 1:10:21",
+   //    "name": "Kunal Chouhan ",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/kunal-chouhan-72447a220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+   //    "instagramProfile": "https://www.instagram.com/kunal_chouhan_99?igsh=aTM0b250cXVnMjl1&utm_source=qr",
+   //    "facebookProfile": "",
+   //    "githubProfile": "",
+   //    "xProfile": "",
+   //    "emailAddress": "kunalchouhan2004@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=1wzOUkUAfslh8jwBenLv9bzbc6znqpmL7"
+   // },
    {
       "Timestamp": "6/19/2024 3:05:24",
       "name": "Rayyan Zameer Baikadi ",
@@ -904,19 +904,19 @@ const data = [
       "emailAddress": "yaminiupadhyay11@gmail.com",
       "photo": "https://drive.google.com/open?id=1HQrrMTORT9g4evcMnsWo8tNTgqkDfGmd"
    },
-   {
-      "Timestamp": "6/19/2024 8:39:29",
-      "name": "Sandeep Sahu ",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/sandeep-sahu-1432ab22a",
-      "instagramProfile": "https://www.instagram.com/ssandeepsahu19?igsh=czA2OThoMmx4Zmxt",
-      "facebookProfile": "https://www.facebook.com/ashish.sahu.391420",
-      "githubProfile": "https://github.com/ssandeepsahu19",
-      "xProfile": "https://x.com/sandipsahu1512?t=4SD_SJtMF8MZc_aoixqLrg&s=08",
-      "emailAddress": "sandeepsahu38963@gmail.com",
-      "photo": "https://drive.google.com/open?id=10kvPDMNv5iSykomJGWI91-T0rpYAvyzh"
-   },
+   // {
+   //    "Timestamp": "6/19/2024 8:39:29",
+   //    "name": "Sandeep Sahu ",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/sandeep-sahu-1432ab22a",
+   //    "instagramProfile": "https://www.instagram.com/ssandeepsahu19?igsh=czA2OThoMmx4Zmxt",
+   //    "facebookProfile": "https://www.facebook.com/ashish.sahu.391420",
+   //    "githubProfile": "https://github.com/ssandeepsahu19",
+   //    "xProfile": "https://x.com/sandipsahu1512?t=4SD_SJtMF8MZc_aoixqLrg&s=08",
+   //    "emailAddress": "sandeepsahu38963@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=10kvPDMNv5iSykomJGWI91-T0rpYAvyzh"
+   // },
    {
       "Timestamp": "6/19/2024 10:18:35",
       "name": "Neha Jhariya ",
@@ -969,19 +969,19 @@ const data = [
       "emailAddress": "jalanansh25@gmail.com",
       "photo": "https://drive.google.com/open?id=1eqVVX3pQx-AXhKU1gS9jKiIyTAjIZah9"
    },
-   {
-      "Timestamp": "6/19/2024 10:50:20",
-      "name": "Pragati Baderiya ",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/pragati-baderiya-663974281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "instagramProfile": "https://www.instagram.com/pragatibaderiya?igsh=bGZ3dGttZTFraWkx",
-      "facebookProfile": "https://www.facebook.com/profile.php?id=61555126134706",
-      "githubProfile": "https://github.com/PragatiBaderiya?tab=overview&from=2024-05-01&to=2024-05-31",
-      "xProfile": "",
-      "emailAddress": "pragatibaderiya12@gmail.com",
-      "photo": "https://drive.google.com/open?id=14CnjbXDu1IQEP2y4_WXG_eCiLi8D469m"
-   },
+   // {
+   //    "Timestamp": "6/19/2024 10:50:20",
+   //    "name": "Pragati Baderiya ",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/pragati-baderiya-663974281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+   //    "instagramProfile": "https://www.instagram.com/pragatibaderiya?igsh=bGZ3dGttZTFraWkx",
+   //    "facebookProfile": "https://www.facebook.com/profile.php?id=61555126134706",
+   //    "githubProfile": "https://github.com/PragatiBaderiya?tab=overview&from=2024-05-01&to=2024-05-31",
+   //    "xProfile": "",
+   //    "emailAddress": "pragatibaderiya12@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=14CnjbXDu1IQEP2y4_WXG_eCiLi8D469m"
+   // },
    {
       "Timestamp": "6/19/2024 11:18:03",
       "name": "Alina malik",
@@ -995,19 +995,19 @@ const data = [
       "emailAddress": "ak7417260@gmail.com",
       "photo": "https://drive.google.com/open?id=11proOuxEugLQUGn8zamByukcDzeojPDM"
    },
-   {
-      "Timestamp": "6/19/2024 11:51:13",
-      "name": "Manjari Gaikwad",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/manjari-gaikwad-823307286/",
-      "instagramProfile": "https://www.instagram.com/manjari.gaikwad?igsh=aWE4MmphbW5mdm9s",
-      "facebookProfile": "",
-      "githubProfile": "",
-      "xProfile": "https://x.com/simplymanjari",
-      "emailAddress": "manjarigaikwad5@gmail.com",
-      "photo": "https://drive.google.com/open?id=1z78nVDVsSHGGWQVtLGaWBYAhu2lFS7Sr"
-   },
+   // {
+   //    "Timestamp": "6/19/2024 11:51:13",
+   //    "name": "Manjari Gaikwad",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/manjari-gaikwad-823307286/",
+   //    "instagramProfile": "https://www.instagram.com/manjari.gaikwad?igsh=aWE4MmphbW5mdm9s",
+   //    "facebookProfile": "",
+   //    "githubProfile": "",
+   //    "xProfile": "https://x.com/simplymanjari",
+   //    "emailAddress": "manjarigaikwad5@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=1z78nVDVsSHGGWQVtLGaWBYAhu2lFS7Sr"
+   // },
    {
       "Timestamp": "6/19/2024 12:09:51",
       "name": "Nishi Singhal ",
@@ -1073,19 +1073,19 @@ const data = [
       "emailAddress": "rohansahu733@gmail.com",
       "photo": "https://drive.google.com/open?id=1UKjzLmNLNYSYZ3NVayzm-NHvLiF70oTA"
    },
-   {
-      "Timestamp": "6/19/2024 13:31:47",
-      "name": "Ganga Tiwari ",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "linkedin.com/in/ganga-tiwari-638aa1290",
-      "instagramProfile": "https://www.instagram.com/_ganga_tiwari_?igsh=czNhaHplczM4MW84",
-      "facebookProfile": "",
-      "githubProfile": "",
-      "xProfile": "",
-      "emailAddress": "tiwariganga0208@gmail.com",
-      "photo": "https://drive.google.com/open?id=1rynT5n1AyHkA2tozmtX3HwQXDUNqBIvE"
-   },
+   // {
+   //    "Timestamp": "6/19/2024 13:31:47",
+   //    "name": "Ganga Tiwari ",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "linkedin.com/in/ganga-tiwari-638aa1290",
+   //    "instagramProfile": "https://www.instagram.com/_ganga_tiwari_?igsh=czNhaHplczM4MW84",
+   //    "facebookProfile": "",
+   //    "githubProfile": "",
+   //    "xProfile": "",
+   //    "emailAddress": "tiwariganga0208@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=1rynT5n1AyHkA2tozmtX3HwQXDUNqBIvE"
+   // },
    {
       "Timestamp": "6/19/2024 13:36:17",
       "name": "Shreya Dwivedi",
@@ -1242,32 +1242,32 @@ const data = [
       "emailAddress": "mishraprakhar150@gmail.com",
       "photo": "https://drive.google.com/open?id=1zpCAgDvrKJ7yDDwqvbwqw8XvTXTGZYqf"
    },
-   {
-      "Timestamp": "6/19/2024 21:39:48",
-      "name": "Mayank Tripathi ",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/mayank-tripathi-8301b0294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      "instagramProfile": "https://www.instagram.com/__mmayank?igsh=ZmVhbmYwZWR3MHNv",
-      "facebookProfile": "",
-      "githubProfile": "",
-      "xProfile": "",
-      "emailAddress": "sanojsus2528@gmail.com",
-      "photo": "https://drive.google.com/open?id=1ceocAiBrkeh5rkfd0kgIfWCsBe4HCLfC"
-   },
-   {
-      "Timestamp": "6/19/2024 23:00:11",
-      "name": "Vaibhav Kumar Sinha ",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/vaibhav-kumar-sinha-070795311",
-      "instagramProfile": "https://www.instagram.com/vaibhavx111",
-      "facebookProfile": "",
-      "githubProfile": "",
-      "xProfile": "",
-      "emailAddress": "vaibhavkrsinha123@gmail.com",
-      "photo": "https://drive.google.com/open?id=19Q-Ut2rpTPYPFLyfoLIk9ITiBuekUR-V"
-   },
+   // {
+   //    "Timestamp": "6/19/2024 21:39:48",
+   //    "name": "Mayank Tripathi ",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/mayank-tripathi-8301b0294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+   //    "instagramProfile": "https://www.instagram.com/__mmayank?igsh=ZmVhbmYwZWR3MHNv",
+   //    "facebookProfile": "",
+   //    "githubProfile": "",
+   //    "xProfile": "",
+   //    "emailAddress": "sanojsus2528@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=1ceocAiBrkeh5rkfd0kgIfWCsBe4HCLfC"
+   // },
+   // {
+   //    "Timestamp": "6/19/2024 23:00:11",
+   //    "name": "Vaibhav Kumar Sinha ",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/vaibhav-kumar-sinha-070795311",
+   //    "instagramProfile": "https://www.instagram.com/vaibhavx111",
+   //    "facebookProfile": "",
+   //    "githubProfile": "",
+   //    "xProfile": "",
+   //    "emailAddress": "vaibhavkrsinha123@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=19Q-Ut2rpTPYPFLyfoLIk9ITiBuekUR-V"
+   // },
    {
       "Timestamp": "6/20/2024 0:46:04",
       "name": "Devansh Soni",
@@ -1281,19 +1281,19 @@ const data = [
       "emailAddress": "soni.devansh9621@gmail.com",
       "photo": "https://drive.google.com/open?id=1wBEPqXD6fEjznPDMo9RJU3F5MRlZOHsk"
    },
-   {
-      "Timestamp": "6/20/2024 11:23:27",
-      "name": "Aman Parte",
-      "year": "3rd",
-      "vertical": "Team Member",
-      "linkedinProfile": "https://www.linkedin.com/in/aman-parte-033984289",
-      "instagramProfile": "https://www.instagram.com/_.aman.parte._/",
-      "facebookProfile": "https://www.facebook.com/profile.php?id=61554641415218&mibextid=ZbWKwL",
-      "githubProfile": "https://github.com/AmanParte10",
-      "xProfile": "",
-      "emailAddress": "parteamanxyz@gmail.com",
-      "photo": "https://drive.google.com/open?id=1qflpVG5RGo5VzJGS6huDu2hDMrWaqvnV"
-   },
+   // {
+   //    "Timestamp": "6/20/2024 11:23:27",
+   //    "name": "Aman Parte",
+   //    "year": "3rd",
+   //    "vertical": "Team Member",
+   //    "linkedinProfile": "https://www.linkedin.com/in/aman-parte-033984289",
+   //    "instagramProfile": "https://www.instagram.com/_.aman.parte._/",
+   //    "facebookProfile": "https://www.facebook.com/profile.php?id=61554641415218&mibextid=ZbWKwL",
+   //    "githubProfile": "https://github.com/AmanParte10",
+   //    "xProfile": "",
+   //    "emailAddress": "parteamanxyz@gmail.com",
+   //    "photo": "https://drive.google.com/open?id=1qflpVG5RGo5VzJGS6huDu2hDMrWaqvnV"
+   // },
    {
       "Timestamp": "6/20/2024 14:12:11",
       "name": "Neev Sahu",
