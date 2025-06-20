@@ -585,7 +585,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "https://github.com/Anurag-Singh2011-hub",
-    "photo": "https://drive.google.com/uc?export=view&id=1Cznpi7IczDx8AkbWnfQ7QGT2x7zyQffn"
+    "photo": "https://drive.google.com/uc?export=view&id=1Lp0iGekzFiQ5CJhSyN_gLlWtVVP8GxKZ"
   },
   {
     "Timestamp": "19/06/2025 20:22:33",
