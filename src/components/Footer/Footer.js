@@ -90,7 +90,7 @@ const Footer = () => {
 								<ContactsIcon></ContactsIcon> <Typography>Contact</Typography>
 							</Button>
 							<a
-								href="tel:// 8504036415"
+								href="tel:// 9828534432"
 								style={{
 									textDecoration: 'none',
 									color: 'whitesmoke',
@@ -98,12 +98,12 @@ const Footer = () => {
 								}}
 							>
 								<Typography>
-									Akshat Maheshwari{' '}
-									<Typography textAlign={'center'}>+91 7440411306</Typography>
+									Vanshika Agarwal{' '}
+									<Typography textAlign={'center'}>+91 9828534432</Typography>
 								</Typography>
 							</a>
 							<a
-								href="tel:// 9490165056"
+								href="tel:// 9302720803"
 								style={{
 									textDecoration: 'none',
 									color: 'whitesmoke',
@@ -111,8 +111,8 @@ const Footer = () => {
 								}}
 							>
 								<Typography>
-									Suhaani Batra{' '}
-									<Typography textAlign={'center'}>+91 6263302087</Typography>
+									Dhananjay Borban{' '}
+									<Typography textAlign={'center'}>+91 9302720803</Typography>
 								</Typography>
 							</a>
 						</div>
