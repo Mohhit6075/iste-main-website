@@ -45,7 +45,7 @@ const Footer = (props) => {
 						</h3>
 						<p>
 							<a
-								href="tel://7440411306"
+								href="tel://9828534432"
 								target="_blank"
 								classNameName="text"
 								style={{ textDecoration: 'none' }}
@@ -55,13 +55,13 @@ const Footer = (props) => {
 									sx={{ color: 'white', textDecoration: 'none' }}
 									variant="body2"
 								>
-									Akshat Maheshwari +91 7440411306
+									Vanshika Agarwal +91 9828534432
 								</Typography>
 							</a>
 						</p>
 						<p>
 							<a
-								href="tel://6263302087"
+								href="tel://9302720803"
 								target="_blank"
 								classNameName="text"
 								style={{ textDecoration: 'none' }}
@@ -71,7 +71,7 @@ const Footer = (props) => {
 									sx={{ color: 'white', textDecoration: 'none' }}
 									variant="body2"
 								>
-									Suhaani Batra +91 6263302087
+									Dhananjay Borban +91 9302720803
 								</Typography>
 							</a>
 						</p>
