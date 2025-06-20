@@ -441,7 +441,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "",
-    "photo": "https://drive.google.com/open?id=1zxJC0k9PoXf1hWBAqyTID2AmA1u4PvFU"
+    "photo": "https://drive.google.com/uc?export=view&id=1zxJC0k9PoXf1hWBAqyTID2AmA1u4PvFU"
   },
   {
     "Timestamp": "19/06/2025 18:34:28",
