@@ -405,7 +405,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "",
-    "photo": "https://drive.google.com/open?id=12EErWT_6_Ojh8bhPknd5YP5QeLyuRdXg"
+    "photo": "https://drive.google.com/file/d/1M2OjLcOA9frjICKOdaIKnpSMzJiI_7Ui/view?usp=drivesdk"
   },
   {
     "Timestamp": "19/06/2025 16:46:01",
@@ -441,7 +441,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "",
-    "photo": "https://drive.google.com/uc?export=view&id=1zxJC0k9PoXf1hWBAqyTID2AmA1u4PvFU"
+    "photo": "https://drive.google.com/file/d/1M0wLrhDPALVc4W3aF1yhrG_jirJyZeuN/view?usp=drivesdk"
   },
   {
     "Timestamp": "19/06/2025 18:34:28",
@@ -549,7 +549,7 @@ const data = [
     "facebookProfile": "",
     "xProfile": "",
     "githubProfile": "",
-    "photo": "https://drive.google.com/uc?export=view&id=1UHlwmbRe0CeGYrTqPwC8qP0W1oreNDv3"
+    "photo": "https://drive.google.com/file/d/1M-eAvu9JksHmezWMtkGg6y91TMEPRXTP/view?usp=drivesdk"
   },
   {
     "Timestamp": "19/06/2025 19:56:53",
