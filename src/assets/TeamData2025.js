@@ -7,8 +7,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/shashank-agarwal-477283326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/shashank.284?igsh=aGJ1OGxud3g0aGV1",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1miUPmYCDpd4hoRZg0_gaOCb5X007CTpR"
   },
   {
@@ -19,8 +19,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/shreyas-paliwal-8a2178345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/paliwal_shreyas?igsh=Mzkxd2dmNGxpYWk0",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/shreyaspaliwal7/iste-task-A",
+    "xProfile": "",
+    "githubProfile": "https://github.com/shreyaspaliwal7/iste-task-A",
     "photo": "https://drive.google.com/open?id=1UH5VKcUcVZq-L5HaKgnabn6-O-qyXQou"
   },
   {
@@ -31,8 +31,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/shree-pandit",
     "instagramProfile": "https://www.instagram.com/_shree_pandit_",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/ShreeMANITCSE8095",
+    "xProfile": "",
+    "githubProfile": "https://github.com/ShreeMANITCSE8095",
     "photo": "https://drive.google.com/open?id=1qgwmOdXjCeeVRZOUpR-VW6EOHrH2uqMe"
   },
   {
@@ -43,8 +43,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/lakshya-singh-3466bb324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/reel/DKPJlJbzQ5K/?igsh=c2x1Z3Fuc2V4aDR0",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1hgEx6-xQBcQJJqlfzCtyAUJwIaFP8FzX"
   },
   {
@@ -55,8 +55,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/sai-ruthwik-ambadi-766a83324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     "instagramProfile": "https://www.instagram.com/sai_ruthwikk?igsh=MXVkMWVtam1tZXVudw%3D%3D&utm_source=qr",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1cDm8CGNHsKCuUQZD9IkdYqyaQJbYgUeO"
   },
   {
@@ -67,9 +67,9 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/sarthak-mittal-a643862a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/sarthakmittal82/profilecard/?igsh=MTF3Nmt5eXB6bXRz",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/Wizardcode28",
-    "photo": "https://drive.google.com/open?id=1M9F0vXKAgrOVvBCKUSbn3b32ZG0bg3BW"
+    "xProfile": "",
+    "githubProfile": "https://github.com/Wizardcode28",
+    "photo": "https://drive.google.com/uc?export=view&id=1M9F0vXKAgrOVvBCKUSbn3b32ZG0bg3BW"
   },
   {
     "Timestamp": "19/06/2025 00:11:42",
@@ -79,8 +79,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/anand-kanaujiya-458285326",
     "instagramProfile": "https://www.instagram.com/ianandx4",
     "facebookProfile": "https://www.facebook.com/ianandx4",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1odnbgYg1Gf_xDFkS7dljIFCLrTdUa5-M"
   },
   {
@@ -91,8 +91,8 @@ const data = [
     "linkedinProfile": "www.linkedin.com/in/sanjay-sharma-489865343",
     "instagramProfile": "https://www.instagram.com/sanjaysharma.0.0?utm_source=qr&igsh=MjZsbTRmYXA1azZ6 ",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1MnP2qdbqyC3aDyqrwUwMLno1x4oL99aA"
   },
   {
@@ -103,8 +103,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/deepanshu-thakre-3144972b2",
     "instagramProfile": "https://www.instagram.com/thakre_deepanshu?igsh=NGtzZThkd2gzcm11",
     "facebookProfile": "https://www.facebook.com/share/1AbhuiCWu2/",
-    "githubProfile": "https://x.com/deepanshu_th?t=VQ205JsxwR3Cz__Zqc-UBw&s=09",
-    "xProfile": "",
+    "xProfile": "https://x.com/deepanshu_th?t=VQ205JsxwR3Cz__Zqc-UBw&s=09",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1ereupaG2OQ6mK9hmKswhrG4Wz_8SELLI"
   },
   {
@@ -115,8 +115,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/taanaysharma",
     "instagramProfile": "https://www.instagram.com/taanaysharma",
     "facebookProfile": "https://www.facebook.com/profile.php?id=61564580230154",
-    "githubProfile": "https://x.com/taanaysharma",
-    "xProfile": "https://github.com/taanaysharma ",
+    "xProfile": "https://x.com/taanaysharma",
+    "githubProfile": "https://github.com/taanaysharma ",
     "photo": "https://drive.google.com/open?id=1nkA2qYiog4XQU75OtMGimBAb2ErSTl1Y"
   },
   {
@@ -127,8 +127,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/ishan-rustagi-085667358?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/__ishann78?igsh=bm12ZXkxMzltbmhz",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1iX_yrv83Je4A0ztJF0TbjKYW90DVmi8D"
   },
   {
@@ -139,8 +139,8 @@ const data = [
     "linkedinProfile": "https://linkedin.com/in/anjali-meena-332a02323",
     "instagramProfile": "_anjali_4062",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1E8WHSvmuM8rJnNKkgZ_oWHFn-NcNKNo5"
   },
   {
@@ -151,8 +151,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/divyansh-parmar-965791348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/divyanshparmar122?utm_source=qr&igsh=YjZvOXY1MDl1OGxl",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/divyansh0122",
+    "xProfile": "",
+    "githubProfile": "https://github.com/divyansh0122",
     "photo": "https://drive.google.com/open?id=1QC6c2r99H4ZXaFOz0LcCXMfUatG5OnCY"
   },
   {
@@ -163,8 +163,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/arsh-yadav-46476b337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/1arshyadav?igsh=YWR4eW5weXVkcDVk",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=122KTB3Nck57cc55lIu4FsHTR5Y1O_g0-"
   },
   {
@@ -175,8 +175,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/vansh-maan-228009307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
     "instagramProfile": "https://www.instagram.com/vansh_maan_vm?igsh=MWNxdnQzYm5hYnB4YQ%3D%3D&utm_source=qr",
     "facebookProfile": "",
-    "githubProfile": "https://x.com/vanshmaan294548?s=21",
-    "xProfile": "https://github.com/Vanshmaan",
+    "xProfile": "https://x.com/vanshmaan294548?s=21",
+    "githubProfile": "https://github.com/Vanshmaan",
     "photo": "https://drive.google.com/open?id=1rJnw0d0F6l5KoVyLZNYKbsLfj9lmVS03"
   },
   {
@@ -187,8 +187,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/kushagra-yadav-b694ba324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/_kushagra_yadav__?igsh=bzNubXY4a2YxMGs1",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1YneAwDGJY-CAaXImClv2wbGgIj97Loxt"
   },
   {
@@ -199,8 +199,8 @@ const data = [
     "linkedinProfile": "www.linkedin.com/in/ayush-pratap-singh-09387b283",
     "instagramProfile": "https://www.instagram.com/aayush_siingh/",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/turing-complete1509",
+    "xProfile": "",
+    "githubProfile": "https://github.com/turing-complete1509",
     "photo": "https://drive.google.com/open?id=1-S_sVU8QVpE8LNKehisqzjWKkbeAMv2k"
   },
   {
@@ -211,8 +211,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/gargi-bhadange-a60283326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/gargi_b55?igsh=MWJnbmZvMDgwZjJ1dA==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1A4I32ZIEkxwA9d8HvsliB1kdPRTtYkD0"
   },
   {
@@ -223,8 +223,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/ishan-pandya-3a9a32338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/ishanpandya41?igsh=M3dzZDl6NHVmc2tu",
     "facebookProfile": "https://www.facebook.com/ishan.pandya.397?mibextid=rS40aB7S9Ucbxw6v",
-    "githubProfile": "https://x.com/IshanPa50917576",
-    "xProfile": "https://github.com/Ishan1234995",
+    "xProfile": "https://x.com/IshanPa50917576",
+    "githubProfile": "https://github.com/Ishan1234995",
     "photo": "https://drive.google.com/open?id=1USAGq1j-qNrAKnisX83vJjdCB_QhIVb3"
   },
   {
@@ -235,8 +235,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/karule-atharva-b0804b280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=an",
     "instagramProfile": "https://www.instagram.com/atharva_1765?igsh=MTNzdmgybG5wY3k3Ng==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1JtuXlQaRr8FWQYAr-zUzL2CK2nZ75oEU"
   },
   {
@@ -247,8 +247,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/anukirti-sharma-13b510348",
     "instagramProfile": "https://www.instagram.com/anukirti1?igsh=MXRzdzJ0Y3k4eXVpNg==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1rbQtENUd0Mq3lNJV7d3PiJ9Rtyy8vM8a"
   },
   {
@@ -259,8 +259,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/mayank-kharadi-90768b325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "mayank._.kharadi",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1ceMPI9OO5by87p_MaADPxd4Ixbh7ucqr"
   },
   {
@@ -271,8 +271,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/rishabh-raj-gupta-6a3860324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/r1shabh_raj_gupta?igsh=bGZkdHZsdTJuc3Ny",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/RishabhRajGupta",
+    "xProfile": "",
+    "githubProfile": "https://github.com/RishabhRajGupta",
     "photo": "https://drive.google.com/open?id=1tUEzdekIdB8mlCdS0KW3Zp3xNdtIA6v4"
   },
   {
@@ -283,8 +283,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/shresth-srivastava-24a17834a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/im.shresth_?igsh=MWt6NGoxaDIyeW51ZA==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1BfGZovrx_z6bxlcm3QL-BHvNpf2aYqtm"
   },
   {
@@ -295,8 +295,8 @@ const data = [
     "linkedinProfile": "http://linkedin.com/in/aarushi-picha-816236326",
     "instagramProfile": "https://www.instagram.com/aarushipicha?igsh=ejFvOHU5cjV4ajRj&utm_source=ig_contact_invite",
     "facebookProfile": "https://www.facebook.com/share/1CXfSCqLAD/?mibextid=wwXIfr",
-    "githubProfile": "https://x.com/home",
-    "xProfile": "https://github.com/aarushipicha",
+    "xProfile": "https://x.com/home",
+    "githubProfile": "https://github.com/aarushipicha",
     "photo": "https://drive.google.com/open?id=1vEb8VYJXv7jStJTBOX5RG8kYXgVtGuig"
   },
   {
@@ -307,8 +307,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/nikunj-mishra-4b752b310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/justt_nikunj_?igsh=NjZlNTY3bzR5bjRu",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/justt-nikunj",
+    "xProfile": "",
+    "githubProfile": "https://github.com/justt-nikunj",
     "photo": "https://drive.google.com/open?id=1bw2bXLQN_jBXtqoLu5KYcfIbU6cWzkIv"
   },
   {
@@ -319,8 +319,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/saransh-balian-34b970332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/balian.saransh_?igsh=MWI2cG1menE2cjh1cQ==",
     "facebookProfile": "https://www.facebook.com/share/16mhyHTACU/",
-    "githubProfile": "https://x.com/Balianji?t=oFkreL3kBEuYcRpteZJ7wA&s=09",
-    "xProfile": "https://github.com/Balianji",
+    "xProfile": "https://x.com/Balianji?t=oFkreL3kBEuYcRpteZJ7wA&s=09",
+    "githubProfile": "https://github.com/Balianji",
     "photo": "https://drive.google.com/open?id=1mz4g6JXf27pRQsGY5AfJhSI1oH7JvwH7"
   },
   {
@@ -331,8 +331,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/aryan-patel-688b51313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/its_aryan.patel?igsh=a3Z5aWhqNG9ibmg3",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=10m1-bBrKkIl3iIR5F-Z3NyE_yXmCgMo6"
   },
   {
@@ -343,8 +343,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/pranav-nagpal-156646326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/nagp_alpranav?igsh=ZWM3MnB0bzk1MjRs",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1hQYSMZJCJx0HdURAK-ht8xn-qhtJbc7O"
   },
   {
@@ -355,8 +355,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/niharika-bhardwaj-357114243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/_.niharikabhardwaj._?igsh=cDFvajF0enc3c2h1",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/niharika-bhardwaj",
+    "xProfile": "",
+    "githubProfile": "https://github.com/niharika-bhardwaj",
     "photo": "https://drive.google.com/open?id=1ne0rZFncuGUekdq6QkAkxUmJnB-M2CLu"
   },
   {
@@ -367,8 +367,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/sarika-singh-710158348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/saariikaaaaaa?igsh=ejljZXRnamNydDdk",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1jgNWzO4DY_SGVWlHVbZrKTBAPE_vYyMv"
   },
   {
@@ -379,8 +379,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/shreyanshjain034?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/shreyansh_jain34?igsh=MXVyd2J1ZnViaWZpbQ==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=11VI87EFAGmjRniQnetv8KQC6Bc78dJUE"
   },
   {
@@ -391,8 +391,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/raunak-sahu-84ba63346",
     "instagramProfile": "https://www.instagram.com/raunak._.sahu?igsh=MW96MGwxcHJueWpiaA==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1mg9C55GQoPwVDrbT52qMT9cN2w6JTVJR"
   },
   {
@@ -403,8 +403,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/sarvesh-thapak-187a152a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/_sarvesh_0717?igsh=MXByM2ZhZGd1bnkwZQ==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=12EErWT_6_Ojh8bhPknd5YP5QeLyuRdXg"
   },
   {
@@ -415,8 +415,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/ayushman-singh-kushwaha-22a1a5332",
     "instagramProfile": "https://www.instagram.com/ayu_sh0421?igsh=MWIzeHJoZGxhaDlyaQ==",
     "facebookProfile": "https://www.facebook.com/share/1CAu9F3s4k/",
-    "githubProfile": "https://x.com/ayushman_s04?t=MgMw9wP1M5FYKwIIrgMIkA&s=09",
-    "xProfile": "",
+    "xProfile": "https://x.com/ayushman_s04?t=MgMw9wP1M5FYKwIIrgMIkA&s=09",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1esC_OsFH8H8ZQEaSWd7__i_Yt3KR8nT4"
   },
   {
@@ -427,8 +427,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/mohit-mogre-4b46bb324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/mohitt_mogre?igsh=bWc1bnNyZzJkMTdj",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/mohit-sirvi-18",
+    "xProfile": "",
+    "githubProfile": "https://github.com/mohit-sirvi-18",
     "photo": "https://drive.google.com/open?id=1aRA7nWm8pBzC-nkvusmQ8XU74NFp3nVh"
   },
   {
@@ -439,8 +439,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/divanshu-sharma-0759b8310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/_.divanshu._2107/profilecard/?igsh=MXU0cWtxZ202OHh5bw==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1zxJC0k9PoXf1hWBAqyTID2AmA1u4PvFU"
   },
   {
@@ -451,8 +451,8 @@ const data = [
     "linkedinProfile": "https://in.linkedin.com/in/amogh-agarwal-945b1b244",
     "instagramProfile": "https://www.instagram.com/amogh__agarwal?igsh=cHMzbHo0c2l3aXE%3D&utm_source=qr",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1niU2krTg5siyiiCKZCXhGVhvBS7rosDb"
   },
   {
@@ -463,8 +463,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/rashi-nahar-19a36a29a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/rashiinahar.3?igsh=MWx4dDZtbWhhNDZrbg==",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/rashinahar",
+    "xProfile": "",
+    "githubProfile": "https://github.com/rashinahar",
     "photo": "https://drive.google.com/open?id=112Lwh26-iEKNT3rS7aUe6-KbRnIKaJeR"
   },
   {
@@ -475,8 +475,8 @@ const data = [
     "linkedinProfile": "linkedin.com/in/aditi-chourasiya-77aa83324",
     "instagramProfile": "https://www.instagram.com/_aditii_016/profilecard/?igsh=Z3JpaGJ5dTRlYzN2",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1oBpfoBKrKg1eBJz3HnAoegk7gEUhLX9W"
   },
   {
@@ -487,8 +487,8 @@ const data = [
     "linkedinProfile": "www.linkedin.com/in/divy-gupta-373393321",
     "instagramProfile": "Don't have Instagram Account",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/divyaspitantgupta",
+    "xProfile": "",
+    "githubProfile": "https://github.com/divyaspitantgupta",
     "photo": "https://drive.google.com/open?id=1BI85Gf1BiCmfN0DjrSol3ZjH0xdlah2L"
   },
   {
@@ -499,8 +499,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/sanskriti-mishra-431674325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/sans.mish?igsh=ejN6b3p5dGJpZ3h1",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1efrGi4aOyufQA2h7ZETsCQIulVVg1m-v"
   },
   {
@@ -511,8 +511,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/shivangi-singh-017141348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/shivangisingh3507?igsh=MWJudDhxdWhzanQzdQ==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1a53U4vghgHHvjf3ygyOCF7HH9tEDUxD9"
   },
   {
@@ -523,8 +523,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/amlan-behura-a71156348",
     "instagramProfile": "https://www.instagram.com/amlan_behura?igsh=MTY3YnVvZzA1eXppeg==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1tmMExisbdPHYMiyyJvdgyWp1zs7gDTwj"
   },
   {
@@ -535,8 +535,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/namrata-sagar-35868b325",
     "instagramProfile": "https://www.instagram.com/namra_sagar",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/namra-sagar2020",
+    "xProfile": "",
+    "githubProfile": "https://github.com/namra-sagar2020",
     "photo": "https://drive.google.com/open?id=1ElOUJDA9of5zPqm6YsXyFFwCjUGJbjDT"
   },
   {
@@ -547,9 +547,9 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/divyanshu-gupta-769940289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/divyanshu_gupta_25?igsh=YXlueDBlYWNyency",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
-    "photo": "https://drive.google.com/open?id=1uLNfs628h46SEU0INC1_MyrNIW6RMbl0"
+    "githubProfile": "",
+    "photo": "https://drive.google.com/uc?export=view&id=1UHlwmbRe0CeGYrTqPwC8qP0W1oreNDv3"
   },
   {
     "Timestamp": "19/06/2025 19:56:53",
@@ -559,8 +559,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/saksham-verma-313823307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/_sak.shm_?igsh=Zmp3NHl5NDh4ZXRu",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1ev6Sr2xeTYmPJiEiEfiYrCGlGqnT7Amq"
   },
   {
@@ -571,8 +571,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/rishabh-rajak-a84858344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/_rishabh__rajak?igsh=MXR6c3ZpeWU3cnV2Zg==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1RwEPS92DQ_gBSSN_WXoz5Mgf2hq89jbF"
   },
   {
@@ -583,9 +583,9 @@ const data = [
     "linkedinProfile": "https://github.com/Anurag-Singh2011-hub",
     "instagramProfile": "https://www.instagram.com/singhanurag_2011/",
     "facebookProfile": "",
-    "githubProfile": "",
-    "xProfile": "https://github.com/Anurag-Singh2011-hub",
-    "photo": "https://drive.google.com/open?id=1Cznpi7IczDx8AkbWnfQ7QGT2x7zyQffn"
+    "xProfile": "",
+    "githubProfile": "https://github.com/Anurag-Singh2011-hub",
+    "photo": "https://drive.google.com/uc?export=view&id=1LcR4cLK0Jqi__zriUI5qeleBedzizCsI"
   },
   {
     "Timestamp": "19/06/2025 20:22:33",
@@ -595,8 +595,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/sambhav-goyal-9b1aab347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/sam_bhav800?igsh=MWpvNjJhc2hsY2EzaQ==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1XH0tpYAQUqpEepl9SpRwyU_Sf-FIzT9B"
   },
   {
@@ -607,8 +607,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/suyash-bedarkar-3a1801308",
     "instagramProfile": "https://www.instagram.com/suyashbedarkar17?igsh=ejRlcDVmaXYzN2Zr&utm_source=ig_contact_invite",
     "facebookProfile": "https://www.facebook.com/share/1DdwNhEeKN/",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1dbQuZw1MR3Yyx_vXE0dxRTCpQ7kg7YfC"
   },
   {
@@ -619,8 +619,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/ansh-gaikwad-a598b7361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/ansh__0703?igsh=aDIxd3dnYTNxZzA4",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1LXa0cYZeWokO0lSbIkEEX5zCzbnhBN7j"
   },
   {
@@ -631,8 +631,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/vedansh-vishwakarma-3a335b324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/vedanshvishwakarma812?igsh=MTZuenhkZDh2Zzd2eg==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=18QYrmZxhEs5ko1vQMN7CgtjaHrU3Olwp"
   },
   {
@@ -643,8 +643,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/devanshu-yadav-09b85b324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/devanshu._8",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1c6JBPKAl-VLqxmQNJQckQHevhnHCdg_5"
   },
   {
@@ -655,8 +655,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/shelvi-agarwal-a48010317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/shelvi.agarwal?igsh=MWdmNTlwbHBnMjZjdw==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/uc?export=view&id=1hS0nPMem0Yh7vOjp4Folk1-e_k6XHBZ6"
   },
   {
@@ -667,8 +667,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/prashant-dhakad-7553b2307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/prashantdhakad20?igsh=MXU4YjNrcjF2aWtwaw==",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1s3ot3aFBlPcUE9WpsgSFmTTSRINPJORr"
   },
   {
@@ -679,8 +679,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/tanishq-singh-380116282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.linkedin.com/in/tanishq-singh-380116282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "facebookProfile": "https://www.facebook.com/share/1AsdwhWws8/",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/open?id=1z2U-65y2NLJHIfCLiIMxOiFEP6EgoJfw"
   },
   {
@@ -691,8 +691,8 @@ const data = [
     "linkedinProfile": "https://www.linkedin.com/in/priyank-maheshwari-048919325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/__priyank10?igsh=em8zeTNya2JteXZh",
     "facebookProfile": "",
-    "githubProfile": "",
     "xProfile": "",
+    "githubProfile": "",
     "photo": "https://drive.google.com/uc?export=view&id=1LMBzG92NBQYAW0IxKSDJd-29IXJ8lZ7k"
   },
   
