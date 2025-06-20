@@ -580,7 +580,7 @@ const data = [
     "name": "Anurag Singh",
     "year": "2nd",
     "vertical": "Video Editor",
-    "linkedinProfile": "https://github.com/Anurag-Singh2011-hub",
+    "linkedinProfile": "https://www.linkedin.com/in/anurag-singh-735a83324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     "instagramProfile": "https://www.instagram.com/singhanurag_2011/",
     "facebookProfile": "",
     "xProfile": "",
